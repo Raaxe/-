@@ -15,4 +15,4 @@ client.user.setStatus("dnd")
 });
 
 
-client.login("NDk4OTQ3NjQyMTEwNTA5MDY3.DrtiUw.NcuSV8TEL__q_nF-kHoHPWHMjNc");
+client.login("process.env.BOT_TOKEN");
